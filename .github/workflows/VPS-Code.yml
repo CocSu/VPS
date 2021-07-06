@@ -1,4 +1,4 @@
-name: VPS_free
+name: TaoVPS
 
 on: 
   workflow_dispatch:
